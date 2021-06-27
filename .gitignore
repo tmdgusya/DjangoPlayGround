@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+playGround/*
+venv/*
+
+# env
+mysite/secret.json
